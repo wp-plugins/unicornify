@@ -1,9 +1,9 @@
 === Unicornify ===
-Contributors: Otto
+Contributors: Otto42
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=otto%40ottodestruct%2ecom
-Tags: unicorn, fan, avatar, unicornify, gravatar
+Tags: unicorn, otto42, avatar, unicornify, gravatar
 Requires at least: 2.9
-Tested up to: 3.0
+Tested up to: 3.0.1
 Stable tag: trunk
 
 == Description ==
